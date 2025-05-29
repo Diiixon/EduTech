@@ -1,4 +1,4 @@
-# Sistema de Pagos - EduTech Innovators SPA
+# EduTech Innovators SPA
 
 **EduTech Innovators SPA** es una empresa chilena emergente dedicada a la creación y distribución de plataformas educativas en línea.  
 La empresa comenzó con una oficina en Providencia, Santiago, y debido a su éxito en la provisión de cursos accesibles y de alta calidad,  
