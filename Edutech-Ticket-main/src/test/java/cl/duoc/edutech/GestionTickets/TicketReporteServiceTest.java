@@ -34,7 +34,7 @@ public class TicketReporteServiceTest {
     @BeforeEach
     void setup(){
         ticketService.urlUsuarios = "http://localhost:8081/api/v1/usuarios";
-        ticketService.urlCursos = "http://localhost:8082/api/cursos";
+        ticketService.urlCursos = "http://localhost:8082/api/v1/cursos";
     }
 
     @Test
